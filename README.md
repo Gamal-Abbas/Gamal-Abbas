@@ -104,7 +104,7 @@
 <br>
 
 <div align="center">
-  <a href="رابط_لينكد_إن"><img src="https://github.com/user-attachments/assets/6941558b-8b30-4b20-a7f6-9c8ed9e3f628" height="35" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[](https://www.linkedin.com/in/gamalabbas)"><img src="https://github.com/user-attachments/assets/6941558b-8b30-4b20-a7f6-9c8ed9e3f628" height="35" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:إيميلك"><img src="https://github.com/user-attachments/assets/509c1538-64ba-40ee-bdce-4ff8f0436139" height="35" alt="Mail"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/رقمك"><img src="https://github.com/user-attachments/assets/7f43ccb2-cb37-4172-ad8a-c386402d071b" height="35" alt="WhatsApp"></a>
 </div>
