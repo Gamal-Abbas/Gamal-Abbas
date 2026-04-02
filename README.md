@@ -12,7 +12,7 @@
 <!-- Titles -->
 
 <a>
-<img src="https://readme-typing-svg.demolab.com?font=Varela+Round&size=30&pause=1500&color=808080&background=FFFFFF00&center=true&vCenter=true&width=890&lines=Software+Engineer+;Mobile+App+Developer+" alt="Typing Titles" />
+<img src="https://readme-typing-svg.demolab.com?font=Varela+Round&size=30&pause=1500&color=808080&background=FFFFFF00&center=true&vCenter=true&width=990&lines=Software+Engineer+;Mobile+App+Developer+" alt="Typing Titles" />
 </a>
 <br><br>
 
@@ -110,26 +110,34 @@
 </div>
 
 
+##   
+
 
 <br clear="both">
-
-<picture>
+<div align="center">
+<picture align>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gamal-Abbas/Gamal-Abbas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gamal-Abbas/Gamal-Abbas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gamal-Abbas/Gamal-Abbas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gamal-Abbas/Gamal-Abbas/output/pacman-contribution-graph.svg" width=90%>
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gamal-Abbas.Gamal-Abbas&right_color=black"  />
-</div>
-
-###
-
-
+</div> 
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100%&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox" width="100%"  />
 </div>
+<br />
+
+<div align="center">
+  
+
+<p align="center">
+  <span align="left">
+    <samp>Designed & Developed with ❤️ by <b>Gamal Abbas</b></samp>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Gamal-Abbas.Gamal-Abbas&right_color=black"/>
+  </span>
+</p>
 
