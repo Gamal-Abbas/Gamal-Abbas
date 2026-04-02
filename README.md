@@ -2,7 +2,7 @@
 <!-- Header -->
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox" width="100%"  />
 </div>
 
 <!-- Hi message -->
@@ -37,11 +37,10 @@
 
 <!-- Skills section -->
 
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
@@ -56,7 +55,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
-<p align="center">
+<p align="center">-->
 
 - **Languages**:
     
@@ -87,31 +86,50 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 
+<br><br>
+
+<!-- Github Status section -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamal-Abbas&theme=transparent&hide_border=true&stroke=808080&ring=808080&fire=808080&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080" alt="Streak Stats" />
+</div>
 
+
+
+
+## <picture><img src = "https://github.com/user-attachments/assets/fec2af85-2357-464c-a216-d06804723857" width = 40px></picture> **Let’s Connect!**
 <br>
-<br>
 
------
+<div align="center">
+  <a href="رابط_لينكد_إن"><img src="https://github.com/user-attachments/assets/6941558b-8b30-4b20-a7f6-9c8ed9e3f628" height="35" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:إيميلك"><img src="https://github.com/user-attachments/assets/509c1538-64ba-40ee-bdce-4ff8f0436139" height="35" alt="Mail"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/رقمك"><img src="https://github.com/user-attachments/assets/7f43ccb2-cb37-4172-ad8a-c386402d071b" height="35" alt="WhatsApp"></a>
+</div>
 
-<br>
 
-<h2 align="center">
-## Hi there 👋
 
-<!--
-**Gamal-Abbas/Gamal-Abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="both">
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gamal-Abbas/Gamal-Abbas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gamal-Abbas/Gamal-Abbas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gamal-Abbas/Gamal-Abbas/output/pacman-contribution-graph.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gamal-Abbas.Gamal-Abbas&right_color=black"  />
+</div>
+
+###
+
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100%&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox" width="100%"  />
+</div>
+
